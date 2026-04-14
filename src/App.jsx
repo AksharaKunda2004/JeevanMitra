@@ -328,11 +328,9 @@ export default function App() {
       <div className="panel">
         <div className="field-label">Recommended Next Step</div>
         <div className="step-desc">
-          Book consultation, verify eligibility documents, and confirm final estimate with the hospital desk.
+          Verify eligibility documents and confirm the final estimate with the hospital help desk.
         </div>
       </div>
-
-      <button className="primary-btn full-btn">Proceed to Booking →</button>
     </div>
   )
 
